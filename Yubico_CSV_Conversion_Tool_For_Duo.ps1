@@ -13,14 +13,14 @@ DESCRIPTION
  clear-host
 
  Write-Host "Yubico CSV Conversion Tool for Duo" -ForegroundColor Cyan
- write-host "# Step 1: Select your YubiOTP seed file"
+ write-host "-`n# Step 1: Select the CSV file"
 
 $psversion =  $host.version #used to tailor script based on powershell age
 $ostype =  [System.Environment]::OSVersion.Platform #used to tailor script based on operating system
 
 #For Windows
 if ($ostype -eq "Win32NT"){
-    read-host "Press [Enter] to select the .CSV file you'd like to convert"
+    read-host "Press [Enter] to choose the .CSV file you'd like to convert"
     ## Using the Windows GUI to grab the CSV file path from the user
     Add-Type -AssemblyName System.Windows.Forms
     $pathToCSV = New-Object System.Windows.Forms.OpenFileDialog
@@ -103,7 +103,3 @@ $ConvertedFullCSVFilepath = Join-Path -path $CSVFolderPath -childpath $Converted
     }
     write-host "...Done!"
  }
-
-
-
-
