@@ -45,4 +45,4 @@ Which in English, looks like the following
 
 `Public ID, Private ID, Seed Value,`
 
-This script is designed to remove the first, fourth and fifth columns from a standard Yubico CSV in order to create a Duo appropriate variant.
+This script is designed to create a Duo appropriate CSV file by copying the second, third and fourth columns of each CSV line into a new file.
