@@ -4,7 +4,7 @@
 
 * Non Destructive! - Original source material is **not** modified with this script.
 * Scaleable! This script is performant even with CSV files containing 100K+ entries.
-* Fast. Convert your file and be on your way.
+* Fast! Convert your file and be on your way.
 
 ![](/Images/conversion.png)
 ## 💻 Requirements
