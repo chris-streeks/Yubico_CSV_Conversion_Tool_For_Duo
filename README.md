@@ -1,6 +1,6 @@
  <h1 align="center">Yubico CSV Conversion Tool For Duo</h1>
 
-**Yubico CSV Conversion Tool For Duo** is a Powershell script that allows you to generate CSV files in a CSV format [that Duo will accept](https://duo.com/docs/yubikey) for import using "Yubico Format" CSV files. 
+**Yubico CSV Conversion Tool For Duo** is a Powershell script that allows you to convert CSV files into a CSV format [that Duo will accept](https://duo.com/docs/yubikey) for import.
 
 * Non Destructive! - Original source material is **not** modified with this script.
 * Scaleable! This script is performant even with CSV files containing 100K+ entries.
