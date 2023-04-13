@@ -10,7 +10,7 @@
 ## 💻 Requirements
 - Any operating system capable of running [Powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3)  (Windows, Linux, macOS)
 - While this script runs on virtually any version of Powershell, it is the most performant when running on Powershell 7+.
-- A CSV file to use. You may have recieved one from the Yubico Production Team via a Custom Configuration order, or you may have used the Yubico Personalization Tool.
+- A CSV file to use. You may have recieved one from the Yubico Production Team via a Custom Configuration order, or you may have generated one after using the Yubico Personalization Tool.
 
 ## 🐻 Security Notes
 - As a general rule of thumb, **never** run Powershell scripts that you do not understand. Always feel free to review this script for yourself and ask questions in the form of a [GitHub Issue](https://github.com/chris-streeks/Yubico_CSV_Conversion_Tool_For_Duo/issues)
