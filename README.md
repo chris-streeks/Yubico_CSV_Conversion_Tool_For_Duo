@@ -36,6 +36,7 @@ This equates to...
 
 `Serial Number, Public ID, Private ID, Seed Value, Access Code, Timestamp`
 
+
 - A Duo formatted CSV file looks like this
 
 `ejfhcciecgul,ea8d4cf9b363,aa4badc32d149a4c5df0612d278e28e1,`
