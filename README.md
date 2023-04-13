@@ -6,7 +6,7 @@
 * Scaleable! This script is performant even with CSV files containing 100K+ entries.
 * Fast. Convert your file and be on your way.
 
-![](/Images/main_window.PNG)
+![](/Images/conversion.png)
 ## 💻 Requirements
 - Any operating system capable of running [Powershell (Windows, Linux, macOS)](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3) 
 - While this script runs on virtually any version of Powershell, it is the most performant when running on Powershell 7+.
