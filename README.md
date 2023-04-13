@@ -8,7 +8,7 @@
 
 ![](/Images/conversion.png)
 ## 💻 Requirements
-- Any operating system capable of running [Powershell (Windows, Linux, macOS)](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3) 
+- Any operating system capable of running [Powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3)  (Windows, Linux, macOS)
 - While this script runs on virtually any version of Powershell, it is the most performant when running on Powershell 7+.
 - A CSV file to use. You may have recieved one from the Yubico Production Team via a Custom Configuration order, or you may have used the Yubico Personalization Tool.
 
